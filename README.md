@@ -6,7 +6,7 @@ Este repositório contém o código e os recursos desenvolvidos para a Monografi
 
 Estas instruções permitem configurar e executar o projeto em sua máquina local para reproduzir os experimentos da monografia.
 
-Consulte **[Implantação](#-implantação)** para notas sobre uso em sistemas ativos.
+Consulte as notas sobre uso em sistemas ativos.
 
 ### 📋 Pré-requisitos
 
