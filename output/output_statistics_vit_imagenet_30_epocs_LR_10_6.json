@@ -1,0 +1,12 @@
+{
+  "total_calories_MAE": 87.9943292756526,
+  "total_calories_MAE_%": 34.91309310648931,
+  "total_mass_MAE": 63.86599736814146,
+  "total_mass_MAE_%": 33.767975485254645,
+  "total_fat_MAE": 7.219168239358654,
+  "total_fat_MAE_%": 53.06547047408193,
+  "total_carb_MAE": 8.28320635733599,
+  "total_carb_MAE_%": 43.27934678147228,
+  "total_protein_MAE": 6.632691229449658,
+  "total_protein_MAE_%": 42.241703690827215
+}
