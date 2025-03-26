@@ -107,6 +107,5 @@ Exemplo de saída (em `output/output_statistics_vit_imagenet.json`):
 ---
 
 ### Notas
-1. **Script Integrado**: O README reflete o pipeline do `run_pipeline.sh`, detalhando cada etapa e os arquivos envolvidos (ex.: `main.py`, `generate_predictions_ViT_imagenet.py`).
-2. **Caminhos**: Mantive os caminhos do script original, mas você pode ajustá-los conforme sua estrutura local.
-3. **Flexibilidade**: Os comandos assumem que os scripts Python estão na raiz ou em subdiretórios claros. Ajuste se necessário (ex.: `scripts/main.py`).
+1. **Caminhos**: Mantive os caminhos do script original, mas você pode ajustá-los conforme sua estrutura local.
+2. **Flexibilidade**: Os comandos assumem que os scripts Python estão na raiz ou em subdiretórios claros. Ajuste se necessário (ex.: `scripts/main.py`).

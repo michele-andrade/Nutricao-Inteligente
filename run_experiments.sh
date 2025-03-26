@@ -26,16 +26,16 @@ echo "[STEP 4] Computing evaluation statistics for ImageNet predictions..."
 # Supondo que "output/predictions_vit_imagenet.csv" seja o CSV de predições gerado
 # Ajuste os caminhos de metadata e do CSV conforme necessário
 python3 generate_eval_statistics.py \
-    /media/work/datasets/nutrition5k_dataset/metadata/dish_metadata_cafe1.csv \
-    /media/work/datasets/nutrition5k_dataset/metadata/dish_metadata_cafe2.csv \
+    data/nutrition5k_dataset/metadata/dish_metadata_cafe1.csv \
+    data/nutrition5k_dataset/metadata/dish_metadata_cafe2.csv \
     output/predictions_vit_imagenet.csv \
     output/output_statistics_vit_imagenet.json
 
 echo "[STEP 5] Computing evaluation statistics for COYO predictions..."
 # Supondo que "output/predictions_vit_COYO.csv" seja o CSV de predições do modelo COYO
 python3 generate_eval_statistics.py \
-    /media/work/datasets/nutrition5k_dataset/metadata/dish_metadata_cafe1.csv \
-    /media/work/datasets/nutrition5k_dataset/metadata/dish_metadata_cafe2.csv \
+   data/nutrition5k_dataset/metadata/dish_metadata_cafe1.csv \
+   data/nutrition5k_dataset/metadata/dish_metadata_cafe2.csv \
     output/predictions_vit_COYO.csv \
     output/output_statistics_vit_COYO.json
 
