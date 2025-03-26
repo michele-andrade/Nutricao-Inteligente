@@ -102,7 +102,7 @@ Exemplo de saída (em `output/output_statistics_vit_imagenet.json`):
 
 ---
 
-⌨️ com ❤️ por [Michele Soares de Andrade](https://github.com/michele-soares) 😊
+⌨️ com ❤️ por [Michele Soares de Andrade](https://github.com/michele-andrade) 😊
 
 ---
 
